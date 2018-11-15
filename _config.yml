@@ -1,11 +1,11 @@
 # Site settings
-author: Reno Sorensen
-title: 
+author: Reno James
+title: [Blog Name Redacted]
 header-img: img/home-bg.png
 email: renojames19@gmail.com
-copyright_name: Reno Sorensen
+copyright_name: Reno James
 description: > # this means to ignore newlines until "baseurl:"
-  
+  I'll have thought of something witty later. 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  renojames
