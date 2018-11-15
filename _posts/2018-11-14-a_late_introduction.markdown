@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "A Late Introduction"
-date:       2018-11-15 04:11:31 +0000
+date:       2018-11-14 23:11:32 -0500
 permalink:  a_late_introduction
 ---
 
